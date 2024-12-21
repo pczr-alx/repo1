@@ -3,3 +3,4 @@ Druga linia - teraz poprawiam.
 Trzecia linia raz jeszcze
 Czwarta linia w VSCode.
 Piąta linia dopisana w masterze, lalala.
+Szósta linia, master.
