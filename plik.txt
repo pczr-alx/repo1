@@ -1,4 +1,4 @@
-Pierwsza linia - zmianiam sobie.
+Pierwsza linia - zmieniam sobie w masterze około 15-tej.
 Druga linia - teraz poprawiam.
 Trzecia linia raz jeszcze
 Czwarta linia w VSCode.
