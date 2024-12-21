@@ -1,2 +1,4 @@
 aaa, kotki dwa
 szere bure obydwa
+
+Wlazł kotem na płotek.
