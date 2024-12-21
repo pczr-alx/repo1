@@ -1,7 +1,8 @@
-Pierwsza linia - zmieniam sobie w masterze około 15-tej.
+Pierwsza linia - zmieniam sobie w czytance około 15-tej.
 Druga linia - teraz poprawiam.
 Trzecia linia raz jeszcze
 Czwarta linia w VSCode.
 Piąta linia dopisana w masterze, lalala.
-Szósta linia, master.
+Szósta linia, czytanka wie lepiej.
 Siódma linia w masterze.
+Python jest fajny.
