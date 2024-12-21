@@ -6,6 +6,7 @@ int main() {
     printf("lalala %d\n", x);
 
     x = 1024;
+	// kolorowanka była tu
     int y = 100 * x + 4;
     return 0;
 }
