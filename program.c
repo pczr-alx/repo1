@@ -5,7 +5,7 @@ int main() {
     printf("Hello world\n");
     printf("lalala %d\n", x);
 
-    x = 321;
+    x = 1024;
     int y = 100 * x + 4;
     return 0;
 }
