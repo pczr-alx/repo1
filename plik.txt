@@ -7,4 +7,4 @@ Szósta linia, czytanka wie najlepiej.
 Siódma linia w masterze.
 Python jest fajny.
 Kolorowanka powstaje jbc...
-Dopisane na serwerze GitHub.
+Dopisane na serwerze GitHub, poprawka, aby był drugi commit.
