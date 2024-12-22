@@ -1,5 +1,5 @@
 Pierwsza linia - zmieniam sobie w czytance około 15-tej.
-Druga linia - teraz poprawiam.
+Druga linia - teraz poprawiam, ale jednak inaczej, bo niedziela rano.
 Trzecia linia raz jeszcze
 Czwarta linia w VSCode.
 Piąta linia dopisana w masterze, lalala.
