@@ -9,3 +9,4 @@ Python jest fajny.
 Kolorowanka powstaje jbc...
 Dopisane na serwerze GitHub, poprawka, aby był drugi commit.
 I jeszcze ostatnia zmiana githubowa.
+Niedzielny poranek
